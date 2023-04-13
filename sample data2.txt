@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"Compote Skin MOD is an innovative application that is designed to help smartphone users customize the look and feel of their device's user interface. This application provides a wide range of features that allow users to modify the appearance of their phone's interface, ","photo":"https://iili.io/HvAHv3J.jpg"},
+  {"title":"helper pack 2","desc":"including the icons, themes, wallpapers, and other graphical elements. In this article, we will explore the various features of Compote Skin MOD and how it can enhance the visual experience of your smartphone.","photo":"https://iili.io/HvAH8Yv.png"},
+  {"title":"tips mod 3","desc":"including the wallpapers, themes, icons, and other visual components. We will examine the many aspects of Compote Skin MOD and how it might improve your smartphone's visual experience in this article.","photo":"https://iili.io/HvAHe4a.jpg"},
+  {"title":"advice pack 4","desc":"One of the most notable features of Compote Skin MOD is its extensive library of themes. This application provides a vast collection of pre-designed themes that users can choose from. These themes range from simple designs to more complex ones with unique icons, ","photo":"https://iili.io/HvAHSvR.png"},
+  {"title":"advance mod 5","desc":"The large selection of themes offered by Compote Skin MOD is one of its standout qualities. Users of this application get access to a vast library of pre-made themes. These themes range from straightforward layouts to intricate ones with distinctive icons.","photo":"https://iili.io/HvAHrTN.jpg"},
+  {"title":"how to use this app 6","desc":"fonts, and colors. Users can also create their own themes by customizing various aspects of the interface, such as the wallpaper, icon pack, and widget style.","photo":"https://iili.io/HvAHUpp.jpg"},
+  {"title":"helper pack 7","desc":"colors and typefaces. By altering several facets of the interface, such as the wallpaper, icon pack, and widget design, users can even create their own themes.","photo":"https://iili.io/HvAH6Qt.png"},
+  {"title":"tips mod 8","desc":"Another great feature of Compote Skin MOD is its icon pack support. The application provides users with a vast collection of icon packs that they can choose from, allowing them to personalize the icons on their phone.","photo":"https://iili.io/HvAH4jI.jpg"}
 
    ]
  
